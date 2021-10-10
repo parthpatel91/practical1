@@ -1,2 +1,2 @@
 # practical1
-practical assignment 2
+practical assignment 1
